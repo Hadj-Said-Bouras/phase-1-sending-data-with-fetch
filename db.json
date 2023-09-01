@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,30 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "fadsl",
+      "dogBreed": "lkfdjs",
+      "id": 3
+    },
+    {
+      "dogName": "fadsdl",
+      "dogBreed": "lkfdjsd",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +43,243 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "Name": "hello",
+      "Email": "hello",
+      "id": 1
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 2
+    },
+    {
+      "Name": "whatver",
+      "Email": "ok@ok.com",
+      "id": 3
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 4
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 5
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 6
+    },
+    {
+      "Name": "whatver",
+      "Email": "ok@ok.com",
+      "id": 7
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 8
+    },
+    {
+      "Name": "whatver",
+      "Email": "ok@ok.com",
+      "id": 9
+    },
+    {
+      "Name": "whatever",
+      "Email": "ok@ok.com",
+      "id": 10
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 11
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 12
+    },
+    {
+      "Name": "whatever",
+      "Email": "ok@ok.com",
+      "id": 13
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 14
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 15
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 16
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 17
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 18
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 19
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 20
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 21
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 22
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 23
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 24
+    },
+    {
+      "Name": "fdas",
+      "Email": "asdfd",
+      "id": 25
+    },
+    {
+      "Name": "f;aldskj",
+      "Email": "undefined",
+      "id": 26
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 27
+    },
+    {
+      "Name": "hello",
+      "Email": "hello",
+      "id": 28
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 29
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 30
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 31
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 32
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 33
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 34
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 35
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 36
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 37
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 38
+    },
+    {
+      "Name": "undefined",
+      "Email": "undefined",
+      "id": 39
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 40
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 41
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 42
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 43
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 44
+    },
+    {
+      "Name": "add",
+      "Email": "add",
+      "id": 45
+    },
+    {
+      "Name": "whatever",
+      "Email": "ok@ok.com",
+      "id": 46
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
